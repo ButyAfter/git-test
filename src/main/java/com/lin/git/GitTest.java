@@ -9,5 +9,6 @@ public class GitTest {
         System.out.println("hello git");
         System.out.println("hello git2");
         System.out.println("i come from hot-fix");
+        System.out.println("hot-fix test");
     }
 }
