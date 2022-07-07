@@ -11,5 +11,7 @@ public class GitTest {
         System.out.println("i come from hot-fix");
         System.out.println("master test");
         System.out.println("hot-fix test");
+
+        System.out.println("7号修改");
     }
 }
