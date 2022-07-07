@@ -13,5 +13,7 @@ public class GitTest {
         System.out.println("hot-fix test");
 
         System.out.println("非主分支开发的代码，后面合并到主分支上");
+
+        System.out.println("7号修改");
     }
 }
