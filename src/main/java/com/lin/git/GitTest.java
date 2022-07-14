@@ -13,5 +13,6 @@ public class GitTest {
         System.out.println("hot-fix test");
 
         System.out.println("7号修改");
+        System.out.println("7月14号修改");
     }
 }
